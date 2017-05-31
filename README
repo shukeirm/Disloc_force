@@ -1,0 +1,16 @@
+How to create a C++ script and compile it on Linux:
+===================================================
+
+reate new file:
+]$ gedit file_name.C
+
+Compile the program and create executable file .exe:
+]$ g++ file_name.C -o name
+
+# Or you can use the following syntax:
+]$ make file_name
+
+
+Run the program:
+
+]$ ./executable_file
